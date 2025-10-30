@@ -1,20 +1,20 @@
 body {
-  background-colour: #F8D78F; /* Peach */
+  background-color: #F8D78F; /* Peach */
   font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca */
-  colour: #CA2602; /* Warna teks utama (Chili red) */
+  color: #CA2602; /* Warna teks utama (Chili red) */
 }
 
 .kartu-profil {
   width: 300px;
-  margin: 50px auto
+  margin: 50px auto;
   padding: 20px;
-  background-colour: E3DDD3;
+  background-color: #E3DDD3;
   border-radius: 15px;
-  box-shadow: 0 4px 8px rgba(0,0,0.1)
-  text-alighn: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
 }
 
 .kartu-profil img {
-  width:150px;
+  width: 150px;
   border-radius: 50%;
 }

@@ -4,7 +4,7 @@ body {
   colour: #CA2602; /* Warna teks utama (Chili red) */
 }
 
-.kartu-profile {
+.kartu-profil {
   width: 300px;
   margin: 50px auto
   padding: 20px;
@@ -14,7 +14,7 @@ body {
   text-alighn: center;
 }
 
-.kartu-profile img {
+.kartu-profil img {
   width:150px;
   border-radius: 50%;
 }
